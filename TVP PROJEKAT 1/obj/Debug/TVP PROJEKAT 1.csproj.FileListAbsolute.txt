@@ -1,0 +1,14 @@
+c:\users\nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 1\TVP PROJEKAT 1\bin\Debug\TVP PROJEKAT 1.exe.config
+C:\Users\Nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 1\TVP PROJEKAT 1\bin\Debug\TVP PROJEKAT 1.exe
+C:\Users\Nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 1\TVP PROJEKAT 1\bin\Debug\TVP PROJEKAT 1.pdb
+C:\Users\Nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 1\TVP PROJEKAT 1\obj\Debug\TVP PROJEKAT 1.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 1\TVP PROJEKAT 1\obj\Debug\TVP_PROJEKAT_1.Properties.Resources.resources
+C:\Users\Nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 1\TVP PROJEKAT 1\obj\Debug\TVP PROJEKAT 1.csproj.GenerateResource.Cache
+C:\Users\Nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 1\TVP PROJEKAT 1\obj\Debug\TVP PROJEKAT 1.exe
+C:\Users\Nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 1\TVP PROJEKAT 1\obj\Debug\TVP PROJEKAT 1.pdb
+C:\Users\Nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 1\TVP PROJEKAT 1\obj\Debug\TVP_PROJEKAT_1.Form1.resources
+C:\Users\Nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 1\TVP PROJEKAT 1\obj\Debug\TVP_PROJEKAT_1.cpanel.resources
+C:\Users\Nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 1\TVP PROJEKAT 1\obj\Debug\TVP_PROJEKAT_1.frmKupac.resources
+C:\Users\Nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 1\TVP PROJEKAT 1\obj\Debug\TVP_PROJEKAT_1.dialogIzbor.resources
+C:\Users\Nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 1\TVP PROJEKAT 1\obj\Debug\TVP_PROJEKAT_1.frmRezervacija.resources
+C:\Users\Nikola\documents\visual studio 2015\Projects\TVP PROJEKAT 1\TVP PROJEKAT 1\obj\Debug\TVP_PROJEKAT_1.frmPostavljanjeHeada.resources

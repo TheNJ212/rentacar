@@ -1,0 +1,17 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Kupac id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/TVP_PROJEKAT_1/TVP%20PROJEKAT%201%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<uid>1</uid>
+<ime id="ref-3">Nikola</ime>
+<prezime id="ref-4">Jovicic</prezime>
+<jmbg id="ref-5">1</jmbg>
+<datumRodjenja>1998-04-22T18:38:02.4467732+02:00</datumRodjenja>
+<telefon id="ref-6">060123456</telefon>
+<admin>true</admin>
+<username id="ref-7">nikola</username>
+<password id="ref-8">nikola</password>
+<Korisnik_x002B_username href="#ref-7"/>
+<Korisnik_x002B_password href="#ref-8"/>
+</a1:Kupac>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

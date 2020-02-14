@@ -1,0 +1,11 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Rezervacija id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/TVP_PROJEKAT_1/TVP%20PROJEKAT%201%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<idAuta>1</idAuta>
+<idKorisnika>1</idKorisnika>
+<datumOd>2019-04-22T00:00:00.0000000+02:00</datumOd>
+<datumDo>2019-04-22T00:00:00.0000000+02:00</datumDo>
+<cena>139500</cena>
+</a1:Rezervacija>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
